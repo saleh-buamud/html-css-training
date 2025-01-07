@@ -1,4 +1,4 @@
-/* .assign-1-shape-1 {
+.assign-1-shape-1 {
     width: 500px;
     padding: 20px;
     margin: auto;
@@ -25,10 +25,4 @@
     padding: 20px;
     margin: auto;
     background-color: rgba(138, 43, 226, 0.2);
-} */
-.sup {}
-
-.container {
-    width: 500px;
-    margin: auto;
 }
